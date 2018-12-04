@@ -1,0 +1,818 @@
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\VS projects\Banco\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 0.3 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 0.3 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 0.3 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 0.3 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 0.3 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 0.3 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 0.4 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Cinthia\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 0.5 - cuenta dario cuenta cinthia\Banco\obj\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 0.6 -back button fix\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 0.7-back button fix\Banco\obj\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 0.8-back button fix\Banco\obj\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 0.9-back button fix\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 1.0 Alpha version\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.Form1.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.1 Alpha version - copia\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.2 Alpha version\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.3 Alpha version\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 1.3 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.4 Serializacion deserializacion\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.6 Serializacion deserializacion\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 1.8 Usuarios nuevos-falta extraer\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.0\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.1\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.2\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 2.3\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormDeposito.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.4\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.4\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.6\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Dropbox\Proyecto\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.7 - try catch en extraccion\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.8 - try catch en extraccion\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 2.9 extraccion casi terminada\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 3\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 3\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 3\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 3\Banco\obj\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 3 testing\Banco\obj\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Desktop\Banco app V 3.1 arreglado el bug forro\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 3.2\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 PROBANDO\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .1 PROBANDO\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Cinthia\Desktop\Banco app V 4 .2 PROBANDO\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .2 PROBANDO\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 4 .3\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 4 .3\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Dropbox\Proyecto\Banco app V 4 .3\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .3\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .4\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .5\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 4 .6\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Dropbox\Proyecto\Banco app V 4 .7\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 4 .8 PATRON\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 5\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 5\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 5\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 5\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\bin\Debug\Banco.exe.config
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\bin\Debug\Banco.exe
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\bin\Debug\Banco.pdb
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Cinthia\Desktop\Banco app V 5 FINAL\Banco\obj\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\obj\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 5.1\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\bin\Debug\Banco.exe.config
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\bin\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\bin\Debug\Banco.pdb
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.exe
+C:\Users\Dario\Desktop\Banco app V 5.2\Banco\obj\Debug\Banco.pdb
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\bin\Debug\Banco.exe.config
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\bin\Debug\Banco.exe
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\bin\Debug\Banco.pdb
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormBienvenido.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormConsultaSaldo.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormDeposit.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormExtraer.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormMenu.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormMovimientos.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.FormTransferencia.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.Formuser.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.Properties.Resources.resources
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.exe
+C:\Users\antra\Desktop\Tec. Sup. Prog\cuatri3 TSP\Prog3\FINAL\BANCO APP\Banco\obj\Debug\Banco.pdb
